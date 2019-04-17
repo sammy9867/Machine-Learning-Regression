@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(209): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(323): warning C4018: '>': signed/unsigned mismatch
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(576): warning C4476: 'printf' : unknown type field character 'P' in format specifier
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(577): warning C4476: 'fprintf' : unknown type field character 'P' in format specifier
+  MLW_Regression.vcxproj -> C:\Users\samue\Downloads\Semester 6\ML Workshop\MLW_Regression\x64\Debug\MLW_Regression.exe

@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(167): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(281): warning C4018: '>': signed/unsigned mismatch
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(544): warning C4476: 'printf' : unknown type field character 'P' in format specifier
+c:\users\samue\downloads\semester 6\ml workshop\mlw_regression\mlw_regression\main.c(545): warning C4476: 'fprintf' : unknown type field character 'P' in format specifier
+  Generating code
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MLW_Regression.vcxproj -> C:\Users\samue\Downloads\Semester 6\ML Workshop\MLW_Regression\x64\Release\MLW_Regression.exe
